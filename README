@@ -1,1 +1,6 @@
-xxx
+This is the Patchwork archive from Ircam, Music Representation Tem
+Patchwork is a major milestone in Computer Assisted Composition Languages. It is a doain specific visual language 
+based on Common Lisp.
+Patchwork has been developed at Ircam in the early 90's by Mikael Laurson, Jacques Duthen,Camilo Rueda, Pierre-François Baisnée
+(up to version 2.1), Gerard Assayag and Carlos Agon (upto version 2.6.4). 
+

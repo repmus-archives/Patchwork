@@ -1,0 +1,1 @@
+;;;;alea loader;;(pw::define-logical-path-dir "ALEA" "PW-LIB:pw-alea;alea")(eval-enqueue '(pw::find&load-lib "ALEA" "load-alea" "PW-alea;alea"))       

@@ -1,0 +1,1 @@
+;;;;;;            chaos loader;;;;                                         by Mikhail Malt  © IRCAM 1994           (pw::define-logical-path-dir "ALEA" "PW-LIB:chaos;chaos-sources")(eval-enqueue '(pw::find&load-lib "ALEA" "load-chaos" "chaos;chaos-sources"))(pw::push-tutorial-dir "PW-LIB:Chaos;chaos-patches;chaos-tutorials;")

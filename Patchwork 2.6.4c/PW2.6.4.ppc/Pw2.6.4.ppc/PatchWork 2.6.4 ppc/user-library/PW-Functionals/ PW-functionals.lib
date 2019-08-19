@@ -1,0 +1,1 @@
+(in-package "PW")(define-logical-path-dir "PW-SERIES" "PW-LIB:PW-Functionals;sources")(defvar *fun-files* '("PW-SERIES:Functionals"                       "PW-SERIES:pw-series-code"))(mapc #'load-once *fun-files*);(mapc #'compile-file *fun-files*)

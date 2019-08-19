@@ -1,0 +1,1 @@
+;;;;;;            Combine loader;;;;                                         by Mikhail Malt  © IRCAM 1996           (pw::define-logical-path-dir "ALEA" "PW-LIB:Combine;Combine-sources")(eval-enqueue '(pw::find&load-lib "ALEA" "load-Combine" "Combine;Combine-sources"))(pw::push-tutorial-dir "PW-LIB:Combine;Combine-patches;Combine-tutorials;")

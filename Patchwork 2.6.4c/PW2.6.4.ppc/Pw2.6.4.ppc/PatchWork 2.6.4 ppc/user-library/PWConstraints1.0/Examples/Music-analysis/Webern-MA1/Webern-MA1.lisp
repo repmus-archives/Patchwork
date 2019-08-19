@@ -1,0 +1,1 @@
+(in-package :pwcs)(* ?1 ?2 ?3   (?if  (not (eq-SC? '(3-11a 3-11b) (m ?1) (m ?2 ) (m ?3))))  "no 'minor-major' 3-member SCs")

@@ -1,0 +1,1 @@
+;;;;;;            Profile loader;;;;                       by Mikhail Malt   &   Jacopo Baboni Schilingi  © IRCAM 1994           (pw::define-logical-path-dir "Profile" "PW-LIB:Profile;Profile-sources")(eval-enqueue '(pw::find&load-lib  "Profile" "load-Profile" "Profile;Profile-sources"))(pw::push-tutorial-dir "PW-LIB:Profile;Profile-patches;Profile-tutorials;")

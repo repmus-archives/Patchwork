@@ -1,0 +1,1 @@
+(mapc #'(lambda (f) (compile-file f :save-local-symbols t)) *PWCs-files*) 

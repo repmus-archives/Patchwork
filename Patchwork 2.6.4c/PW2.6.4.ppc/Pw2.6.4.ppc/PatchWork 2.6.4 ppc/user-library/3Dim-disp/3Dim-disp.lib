@@ -1,0 +1,1 @@
+;;;; 3Dim-disp loader;; Mikael Laurson(in-package "PW")(define-logical-path-dir "3Dim" "PW-LIB:3Dim-disp;sources")(defvar *3dim-files* '("3Dim:3dim-turtle"                       "3Dim:3dim-display"))(mapc #'load-once *3dim-files*);(mapc #'compile-file *3dim-files*)

@@ -1,0 +1,1 @@
+(in-package :pw)(make-win 'c-pw-window "READ-MEfirst" 19529866 32309900 (list (sbox 'c-pw-text-box:c-pw-text-box 'c-pw-text-box::text "text" nil 11075713 (list "WARNING!!!!!!!!!!!!!!!!!!!!!!  RECOPIER, TOUJOURS, LE PATCH DANS SON FICHIER ET TRAVAILLER SUR LA COPIE") 9699670)) (list) t)

@@ -1,0 +1,1 @@
+;;;;;;            Librairie RepMus;;;;            Gerard Assayag, Claudy Malherbe  © IRCAM 1994           (pw::define-logical-path-dir "Repmus" "PW-LIB:repmus;repmus-sources")(eval-enqueue '(pw::find&load-lib  "Repmus" "load-repmus" "repmus;repmus-sources"))(pw::push-tutorial-dir "PW-LIB:Repmus;Repmus-patches;Repmus-tutorials;")

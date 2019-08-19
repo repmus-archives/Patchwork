@@ -1,0 +1,1 @@
+(pw::define-logical-path-dir "SITUATION" "PW-LIB:situation;constraints-engin")(eval-enqueue '(pw::find&load-lib "SITUATION" "load-situation" "situation;constraints-engin"))

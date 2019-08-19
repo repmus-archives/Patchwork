@@ -1,0 +1,1 @@
+(in-package :pw)(make-win 'c-pw-window "table" 2490418 19661300 (list (sbox 'c-patch 'cs-e:table "table" nil 983055 (list 1 0 1 0 "(1 2)"))) (list) t)

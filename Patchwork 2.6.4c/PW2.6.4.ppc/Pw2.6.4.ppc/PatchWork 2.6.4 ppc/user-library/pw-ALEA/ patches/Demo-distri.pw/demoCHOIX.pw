@@ -1,0 +1,1 @@
+(in-package :pw)(make-win 'c-pw-window "demoCHOIX" 9306673 18022773 (list (sbox 'c-pw-resize-x 'const "const" t 2752710 (list "(1 2 3 4 5 6 7 8)") 2228343) (sbox 'c-patch-chord-box-m 'chord "chord" t 3473481 (list (note (list 6000 100 0 0 nil 1 100 nil))) nil :midic) (sbox 'c-patch 'alea:choix "choix" t 10813601 (list 0 0 0.5))) (list (list 2 0 1) (list 2 1 0)))

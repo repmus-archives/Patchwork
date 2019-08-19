@@ -1,0 +1,1 @@
+sr=16000kr=1000ksmps=16nchnls=1			instr	1 	kenv		oscil1		0,1,p3,1a1			oscili		p5,p4,2         out          a1*kenv        endin		

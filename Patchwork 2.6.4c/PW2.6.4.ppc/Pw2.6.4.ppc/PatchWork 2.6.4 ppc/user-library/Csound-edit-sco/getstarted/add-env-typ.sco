@@ -1,0 +1,1 @@
+;forme d'onde f1 0 1024 10 1;fonction pour enveloppe d'amplitudef10 0 1024 7 0 24 1 200 0.8 800 0;fonction pour enveloppe de fréquencef20 0 1024 7 200 12 450 12 440 1000 440;notes ou partiels;ins  dur  date n° tab env amp   n° table env freq   amp rel i1     0    3        10                20             e

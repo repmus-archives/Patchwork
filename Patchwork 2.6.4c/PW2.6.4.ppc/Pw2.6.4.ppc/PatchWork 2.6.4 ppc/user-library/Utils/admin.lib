@@ -1,0 +1,1 @@
+;;;; coin by lp & xc loader;;(pw::define-logical-path-dir "utils" "PW-LIB:utils")(eval-enqueue (pw::find&load-lib "utils" "load-admin" "utils"))

@@ -1,0 +1,1 @@
+(in-package :pw)(make-win 'c-pw-window "choiaux" 5242945 11206896 (list (sbox 'c-patch 'alea:choixaux "choixaux" nil 7209012 (list 0 "(1 2)")) (sbox 'c-pw-resize-x 'const "const" nil 4259947 (list "(1 2 a z 54)") 2228337) (sbox 'c-pw-resize-x 'const "const" nil 983055 (list "(.1 .2 .3 .2 .2 )") 2228356)) (list (list 0 0 2) (list 0 1 1)) t)

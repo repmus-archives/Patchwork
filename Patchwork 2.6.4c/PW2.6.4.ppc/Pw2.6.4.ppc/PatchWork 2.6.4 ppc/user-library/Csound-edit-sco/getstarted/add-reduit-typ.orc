@@ -1,0 +1,1 @@
+;forme d'ondef1 0 1024 10 1;ins  date(sec)  dur(sec)  amp(lin)  freq(Hz)   dur attaque(sec)i 1     0         3          10000     440          1e
